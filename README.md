@@ -1,8 +1,4 @@
-AWS Lambda
-========================
-Contributor: K. Janani
-========================
-"""
+
 import sys
 import traceback
 import logging
